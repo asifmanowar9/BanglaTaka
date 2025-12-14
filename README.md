@@ -1,7 +1,7 @@
 # [BanglaTaka 🇧🇩💴](https://colab.research.google.com/github/hossainsiam133/BanglaTaka/blob/main/Code/BanglaTaka_Siam.ipynb)
 
 <p style="text-align: justify;">BanglaTaka is a deep learning–based image classification project designed to recognize Bangladeshi banknotes across multiple denominations.  
-The project focuses on building a robust pipeline using **image augmentation** and **Convolutional Neural Networks (CNNs)** to handle real-world variations in banknote images.</p>
+The project focuses on building a robust pipeline using image augmentation and Convolutional Neural Networks (CNNs) to handle real-world variations in banknote images.</p>
 
 ---
 
