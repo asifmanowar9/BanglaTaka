@@ -29,16 +29,16 @@ The dataset includes **9 Bangladeshi banknote denominations**:
 ---
 
 ## [📊 Dataset Overview](https://drive.google.com/drive/folders/13P5Soos4thSeu9Su62lHVENzrSF3kxCA?brid=_lZkcYae4gXRQ2ufJUg74w)
-- **Total Images:** 5,073 (JPG format)  
-- **Collection Locations:** Dhaka, Rajshahi, Khulna, Sylhet, and other regions  
+- **Total Images:** 10,000+ (JPG format)  
+- **Collection Locations:** Narayanganj & Munshiganj
 - **Capture Conditions:**  
   - Different lighting environments  
   - Multiple camera angles  
 - **Devices Used:**  
-  - iPhone 12 Pro  
-  - Samsung M31  
-  - Realme C25s  
-  - Redmi Note 13  
+  - iPhone 16 Pro Max 
+  - Pixel 6a 
+  - Infinix
+    
 
 The dataset includes **new, old, worn, and damaged banknotes**, ensuring real-world applicability.
 ---
